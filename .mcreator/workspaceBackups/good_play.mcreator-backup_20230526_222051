@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "GoodPlay",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "good_play",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/good_play.json"
+        ]
+      }
+    },
+    {
+      "name": "YaSuoJi",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ya_suo_ji",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/goodplay/world/inventory/YaSuoJiMenu.java",
+          "src/main/java/net/mcreator/goodplay/client/gui/YaSuoJiScreen.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "gui.good_play.ya_suo_ji.label_ya_suo_ji1": "yasuoji"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "good_play",
+    "modName": "good play",
+    "version": "1.0.0",
+    "author": "luoyunfa-250, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.goodplay",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

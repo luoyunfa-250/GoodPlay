@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "good_play:blocks/inactive_down",
+    "up": "good_play:blocks/inactive_up",
+    "north": "good_play:blocks/inactive_south",
+    "east": "good_play:blocks/inactive_east",
+    "south": "good_play:blocks/inactive_north",
+    "west": "good_play:blocks/inactive_north",
+    "particle": "good_play:blocks/inactive_down"
+  },
+  "render_type": "solid"
+}

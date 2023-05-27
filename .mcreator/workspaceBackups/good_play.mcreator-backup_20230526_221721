@@ -1,0 +1,44 @@
+{
+  "mod_elements": [
+    {
+      "name": "GoodPlay",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "good_play",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/good_play.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "good_play",
+    "modName": "good play",
+    "version": "1.0.0",
+    "author": "luoyunfa-250, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.goodplay",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
